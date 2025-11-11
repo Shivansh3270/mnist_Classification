@@ -121,8 +121,8 @@ Test Accuracy: 98.1%
 | Name | Role | GitHub |
 |------|-------|--------|
 | **Shivansh Chaurasia** | Lead Developer | [@Shivansh Chaurasia](https://github.com/Shivansh3270) |
-| **Contributor 2 (Edit Name)** | Model Developer | [@Nikita Tripathi](https://github.com/nikitatri) |
-| **Contributor 3 (Edit Name)** | Data Analyst / Reviewer | [@Avinash Saini](https://github.com/Avinash-Saini090) |
+| **Nikita Tripathi** | [@Nikita Tripathi](https://github.com/nikitatri) |
+| **Avinash Saini** | Data Analyst / Reviewer | [@Avinash Saini](https://github.com/Avinash-Saini090) |
 
 
 =======
