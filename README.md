@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧠 MNIST Handwritten Digit Classification
 
 This project demonstrates **supervised learning** for handwritten digit recognition using the **MNIST dataset**.  
@@ -124,3 +125,7 @@ Test Accuracy: 98.1%
 | **Contributor 3 (Edit Name)** | Data Analyst / Reviewer | [@Avinash Saini](https://github.com/Avinash-Saini090) |
 
 
+=======
+# mnist_Classification
+Handwritten digit recognition using supervised learning on the MNIST dataset.
+>>>>>>> 4ce0c35f83426a7207f15c5f82fa5fe432af1c03
