@@ -118,11 +118,11 @@ Test Accuracy: 98.1%
 
 ## 👥 Contributors
 
-| Name | Role | GitHub |
+| Name | Responsibility | GitHub |
 |------|-------|--------|
-| **Shivansh Chaurasia** | Lead Developer | [@Shivansh Chaurasia](https://github.com/Shivansh3270) |
-| **Nikita Tripathi** | [@Nikita Tripathi](https://github.com/nikitatri) |
-| **Avinash Saini** | Data Analyst / Reviewer | [@Avinash Saini](https://github.com/Avinash-Saini090) |
+| **Shivansh Chaurasia** | Model selection and training | [@Shivansh Chaurasia](https://github.com/Shivansh3270) |
+| **Nikita Tripathi** | Model evaluation, prediction, and deployment |[@Nikita Tripathi](https://github.com/nikitatri) |
+| **Avinash Saini** | Data collection, preprocessing | [@Avinash Saini](https://github.com/Avinash-Saini090) |
 
 
 =======
