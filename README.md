@@ -118,7 +118,7 @@ Test Accuracy: 98.1%
 
 ## 👥 Contributors
 
-| Name | Responsibility | GitHub |
+| Name | Responsibilities  | GitHub |
 |------|-------|--------|
 | **Shivansh Chaurasia** | Model selection and training | [@Shivansh Chaurasia](https://github.com/Shivansh3270) |
 | **Nikita Tripathi** | Model evaluation, prediction, and deployment |[@Nikita Tripathi](https://github.com/nikitatri) |
