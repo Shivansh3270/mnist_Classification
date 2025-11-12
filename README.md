@@ -121,9 +121,6 @@ Test Accuracy: 98.1%
 | Name | Responsibilities  | GitHub |
 |------|-------|--------|
 | **Shivansh Chaurasia** | Model selection and training | [@Shivansh Chaurasia](https://github.com/Shivansh3270) |
-| **Nikita Tripathi** | Model evaluation, prediction, and deployment |[@Nikita Tripathi](https://github.com/nikitatri) |
+| **Nikita Tripathi** | Model evaluation, prediction |[@Nikita Tripathi](https://github.com/nikitatri) |
 | **Avinash Saini** | Data collection, preprocessing | [@Avinash Saini](https://github.com/Avinash-Saini090) |
 
-
-# mnist_Classification
-Handwritten digit recognition using supervised learning on the MNIST dataset.
