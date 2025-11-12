@@ -1,17 +1,16 @@
-
 # 🧠 MNIST Handwritten Digit Classification
 
 This project demonstrates **supervised learning** for handwritten digit recognition using the **MNIST dataset**.  
 It walks through the complete machine learning pipeline — from **data loading and preprocessing** to **model training, evaluation, and prediction**.
 
----
+-----
 
 ## 📋 Project Overview
 
 The **MNIST dataset** is a classic benchmark in machine learning consisting of **70,000 grayscale images** of handwritten digits (0–9), each of size **28×28 pixels**.  
 The goal of this project is to build a model that accurately classifies digits from these images.
 
----
+-----
 
 ## 🚀 Features
 
@@ -27,7 +26,7 @@ The goal of this project is to build a model that accurately classifies digits f
 
 - Supervised Learning  
 - Image Classification  
-- Neural Networks (MLP / CNN)  
+- Neural Networks (MLP/CNN)  
 - Data Normalization and Flattening  
 - Model Evaluation Metrics  
 
